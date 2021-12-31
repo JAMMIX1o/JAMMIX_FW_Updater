@@ -10,7 +10,7 @@ This core also provides vairous testing for controller input testing including S
 
 
 
-## Core, Frimware and Directory Structure 
+## Core, Firmware and Directory Structure 
 
 Regular users that want to use update their firmware and use the testers should downownload the core and the frimware from: https://github.com/JAMMIX1o/JAMMIX_FW_Updater/tree/main/releases 
 
