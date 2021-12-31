@@ -4,7 +4,7 @@ Based on the work by JimmyStones and others (see README1.MD and Acknowledgements
 
 This core allows flashing of a firmware binary to the STM32 on JAMMIX, for future updates.
 
-It uses the standard MiSTer OSD menu to load the firmware file, and shows a few steps to carry out the update.
+It uses the standard OSD menu to load the firmware file, and shows a few steps to carry out the update.
 
 This core also provides vairous testing for controller input testing including SNAC, audio testing, and video testing.  
 
