@@ -129,7 +129,7 @@ Befor using this Input Tester buttons must be defined from Menu core and defined
 
 There are 4 test for input
  - Digital - shows joypad buttons for input devices 1,2,3,4. These are activated by the first, second, thrid, and fourth contollers MiSTer detects. To activate a controller press any button. (Default screen)
- - SNAC - shows hex code for button presses. testing with a MD/Gen controller is recomended as it can test all SNAC lines (Default Screen).
+ - SNAC - shows hex code for button presses. Testing with a MD/Gen controller is recomended as it can test all SNAC lines (Default Screen).
  - Analog - shows analog axes for first two input devices (Hold "Coin" to activate the analog test)
  - Advanced - shows all standard HPS sourced inputs (joystick, analog, paddle, spinner) simultaneously as well as a ps2 keyboard console (Hold "Start" to activate the Advanced test)
  
