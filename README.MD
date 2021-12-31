@@ -66,8 +66,12 @@ no_merge_vid=0x8888
 15 kHz Monitors/Arcade Monitors/PVM & BVM can also set to in the MiSTer.ini 
 - Set “composite_sync=1” in the MiSTer.ini file, this sets MiSTer for RGBS video output. 
 
+```composite_sync=1```
+
 31KHz Monitors/Computer Monitor 
 - Set “composite_sync=0” in the MiSTer.ini file, this sets MiSTer for RGBHV/VGA video output.
+
+```composite_sync=0```
 
 Note: JAMMIX can output RGB from the JAMMA edge and D-Sub port simultaneously. Component video is available via the D-Sub port only." 
 
