@@ -50,7 +50,8 @@ Before using the variuos testers of this core with the JAMMA edge on JAMMIX you 
 
 JAMMIX requires a configuration to the MiSTer.ini config file and the u-boot.txt config file. 
 
-MiSTer.ini Configuration: 
+MiSTer.ini Configuration:
+
 The MiSTer.ini can be found at “/media/fat/MiSTer.ini” if you use ssh/sftp/ftp to access your MiSTer or in the root of the SD Card if the SD Card is mounted on a PC. 
 Append the following to the bottom of the MiSTer.ini. 
 ```;JAMMIX
@@ -71,6 +72,7 @@ no_merge_vid=0x8888
 Note: JAMMIX can output RGB from the JAMMA edge and D-Sub port simultaneously. Component video is available via the D-Sub port only." 
 
 u-boot.txt Configuration:
+
 The u-boot.txt can be found at “/media/fat/linux/u-boot.txt”  if you use ssh/sftp/ftp to access your MiSTer or in the “linux” directory from the root of the SD Card if the SD Card is mounted on a PC. 
 Remove any existing text in the u-boot.txt file. If this file does not exist then it should be created. Add the following to the u-boot.txt. 
 
